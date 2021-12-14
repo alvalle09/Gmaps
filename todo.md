@@ -1,7 +1,6 @@
 # Plan Of Action
 
-
-- Get google maps api  🔐
+- __Get google maps api  🔐__ 
 
 - Add the header store locator
 
