@@ -1,9 +1,8 @@
 let stores = [
-  {
+  { name: "La Cienega & Gregory Way",
     recommendation: {},
     storeNumber: "5758-13907",
     id: "15051",
-    name: "La Cienega & Gregory Way",
     phoneNumber: "310-659-9562",
     coordinates: {
       latitude: 34.063584,
@@ -137,11 +136,10 @@ let stores = [
     ],
     slug: "la-cienega-gregory-way-257-s-la-cienega-blvd-beverly-hills-ca-902113301-u",
   },
-  {
+  { name: "Fairfax & Olympic",
     recommendation: {},
     storeNumber: "5577-1851",
     id: "14753",
-    name: "Fairfax & Olympic",
     phoneNumber: "(323) 634-7845",
     coordinates: {
       latitude: 34.057968,
@@ -271,11 +269,10 @@ let stores = [
     ],
     slug: "fairfax-olympic-6066-west-olympic-boulevard-los-angeles-ca-9003644",
   },
-  {
+  { name: "Target LA Beverly T-2775",
     recommendation: {},
     storeNumber: "16279-169147",
-    id: "114059",
-    name: "Target LA Beverly T-2775",
+    id: "114059",    
     phoneNumber: "323-602-0637",
     coordinates: {
       latitude: 34.07526,
@@ -5802,11 +5799,10 @@ let stores = [
     ],
     slug: "highland-franklin-1900-n-highland-hollywood-ca-900682997-us",
   },
-  {
+  { name: "Sunset & Vine",
     recommendation: {},
     storeNumber: "22916-225624",
     id: "1007064",
-    name: "Sunset & Vine",
     phoneNumber: "323-464-1859",
     coordinates: {
       latitude: 34.097837,
@@ -6232,11 +6228,10 @@ let stores = [
     ],
     slug: "sunset-gower-6102-w-sunset-blvd-los-angeles-ca-900286424-us",
   },
-  {
+  { name: "Hollywood & Vine",
     recommendation: {},
     storeNumber: "16980-167664",
     id: "90032",
-    name: "Hollywood & Vine",
     phoneNumber: "323-464-4601",
     coordinates: {
       latitude: 34.101461,
